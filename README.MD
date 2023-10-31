@@ -7,5 +7,18 @@
 
 
 <b>Ez a kedvenc honlapom:</b>
-<a href="http://www.google.com">Ez egy link a google.com-ra.</a>
+<a href="http://www.totalcar.hu">Totalcar</a>
+
+<table>
+<tr>
+<td>A</td>
+<td>B</td>
+<td>C</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+</tr>
+</table>
 

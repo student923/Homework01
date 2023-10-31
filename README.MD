@@ -31,6 +31,7 @@
 </tr>
 </table>
 
+<big>Kedves ételeim:</big>
 
 <ul>
 <li>Tőtöttkáposzta</li>

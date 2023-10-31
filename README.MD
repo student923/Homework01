@@ -4,6 +4,7 @@
 <p>My passion is hiking.</p>
 <p>I live in Budapest.</p>
 <p>My favourite pet is cat.</p>
+<p>And now, i switch to hungarian.</p>
 
 
 <b>Ez a kedvenc honlapom:</b>

@@ -1,7 +1,11 @@
-This is my first homework.
-My name is David.
-My passion is hiking.
-br>I live in Budapest.
-br>My favourite pet is cat.
 
-<b>ez egy félkövér szöveg </b>
+<p>This is my first homework.</p>
+<p>My name is David.</p>
+<p>My passion is hiking.</p>
+<p>I live in Budapest.</p>
+<p>My favourite pet is cat.</p>
+
+
+<b>Ez a kedvenc honlapom:</b>
+<a href="http://www.google.com">Ez egy link a google.com-ra.</a>
+

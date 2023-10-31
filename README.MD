@@ -9,21 +9,25 @@
 <b>Ez a kedvenc honlapom:</b>
 <a href="http://www.totalcar.hu">Totalcar</a>
 
+<b>Órarend:</b>
 <table>
 <tr>
-<td>A</td>
-<td>B</td>
-<td>C</td>
+<th>Hétfő</th>
+<th>Szerda</th>
+<th>Csütörtök</th>
+<th>Szombat</th>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
+<td>17-20</td>
+<td>17-20</td>
+<td>17-20</td>
+<td>9-18</td>
 </tr>
 <tr>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<td>3 óra</td>
+<td>3 óra</td>
+<td>3 óra</td>
+<td>8 óra</td>
 </tr>
 </table>
 
